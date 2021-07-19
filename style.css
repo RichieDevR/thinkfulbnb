@@ -1,3 +1,4 @@
+
 /* -------  General Styles ------- */
 
 body {
@@ -164,19 +165,13 @@ footer p {
   }
 
   main img {
-    width: 800px;
-    
+    width: 100px;
   }
 
   .group {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-  }
-  .item {
-
-    flex: 1;
-    margin:10px;
   }
 
   form label {
